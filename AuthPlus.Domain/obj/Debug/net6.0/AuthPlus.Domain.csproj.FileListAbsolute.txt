@@ -1,0 +1,12 @@
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\bin\Debug\net6.0\AuthPlus.Domain.deps.json
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\bin\Debug\net6.0\AuthPlus.Domain.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\bin\Debug\net6.0\ref\AuthPlus.Domain.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\bin\Debug\net6.0\AuthPlus.Domain.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.AssemblyInfoInputs.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.AssemblyInfo.cs
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.csproj.CoreCompileInputs.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\ref\AuthPlus.Domain.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Domain\obj\Debug\net6.0\AuthPlus.Domain.csproj.AssemblyReference.cache

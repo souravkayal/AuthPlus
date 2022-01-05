@@ -1,0 +1,17 @@
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Service.deps.json
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Service.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\ref\AuthPlus.Service.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Service.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.AssemblyInfoInputs.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.AssemblyInfo.cs
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.csproj.CoreCompileInputs.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\ref\AuthPlus.Service.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Domain.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Persistence.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Domain.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Service\bin\Debug\net6.0\AuthPlus.Persistence.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.csproj.AssemblyReference.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Service\obj\Debug\net6.0\AuthPlus.Service.csproj.CopyComplete

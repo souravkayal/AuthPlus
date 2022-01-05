@@ -1,0 +1,11 @@
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\bin\Debug\net6.0\AuthPlus.Infrastructure.deps.json
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\bin\Debug\net6.0\AuthPlus.Infrastructure.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\bin\Debug\net6.0\ref\AuthPlus.Infrastructure.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\bin\Debug\net6.0\AuthPlus.Infrastructure.pdb
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\AuthPlus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\AuthPlus.Infrastructure.AssemblyInfoInputs.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\AuthPlus.Infrastructure.AssemblyInfo.cs
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\AuthPlus.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\AuthPlus.Infrastructure.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\ref\AuthPlus.Infrastructure.dll
+C:\AuthPlus\AuthPlus\AuthPlus.Infrastructure\obj\Debug\net6.0\AuthPlus.Infrastructure.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZtBBpGBKHsh5igMyIbsJb8MrPmdEolS38MzSJxa19PQ=",
+  "Source": "AuthPlus.API",
+  "BasePath": "_content/AuthPlus.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
