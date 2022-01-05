@@ -1,4 +1,5 @@
 ﻿using AuthPlus.Domain.Entity;
+using AuthPlus.Domain.Notification.Request;
 using AuthPlus.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,5 +24,7 @@ namespace AuthPlus.API.Controllers
         {
             return await _userService.Get();
         }
+
+        
     }
 }

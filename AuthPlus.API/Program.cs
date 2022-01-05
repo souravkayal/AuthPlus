@@ -1,8 +1,11 @@
+using AuthPlus.Domain.Common.Utility;
+using AuthPlus.Domain.Common.Utility.Mail;
 using AuthPlus.Persistence.Implementation.UserOperation;
 using AuthPlus.Persistence.Interface.UserOperation;
 using AuthPlus.Service.Implementation;
+using AuthPlus.Service.Implementation.Notification;
 using AuthPlus.Service.Interface;
-using System.Configuration;
+using AuthPlus.Service.Interface.Notification;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +19,10 @@ builder.Services.AddSwaggerGen();
 //Adding Dependency
 builder.Services.AddTransient<IUserRepository, UserRepository>();
 builder.Services.AddTransient<IUserService, UserService>();
+
+builder.Services.AddTransient<IMailSender, MailSender>();
+builder.Services.AddTransient<INotificationService, NotificationService>();
+builder.Services.AddTransient<INotificationHandler, NotificationHandler>();
 
 
 var app = builder.Build();
